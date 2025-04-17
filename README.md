@@ -11,7 +11,7 @@ For the past 3 years, I've been working with Salesforce, focusing on **System Ad
 - **ERP Implementation**: Led the implementation of an ERP system to improve internal processes.
 - **Product Owner - Netsuite & Salesforce Integration**: Managed a project integrating **Netsuite** and **Salesforce** via **MuleSoft**.
 - **Dashboards for Employee Performance**: Developed custom dashboards to track and monitor employee performance at a Brazilian bank.
-- **Account Assignment at Sicredi**: Reorganized **Salesforce objects** and optimized triggers for the account assignment process.
+- **Restructuring of Account Assignment Objects for a Bank (Brazil)**: Reorganized Salesforce objects and optimized triggers for the account assignment process.
 - **Opt-In/Opt-Out Flow for Charity (Australia)**: Automating the opt-in/opt-out process for a charity, improving communication.
 - **Data Cloud Implementation**: Currently, I'm involved in a **Data Cloud** implementation project, enhancing data infrastructure.
 
