@@ -1,83 +1,53 @@
+# Welcome to My Professional Portfolio
+ 
+ ## About Me
+ I am a **Salesforce Admin** with 5 years of experience in IT, including 3 years working with Salesforce. My expertise includes system administration, business analysis, agile methodologies, .
+ I bridge technical and business areas, simplifying communication among stakeholders. Motivated by a desire to innovate, I tackle challenges and explore new methods and technologies to improve my work. My strong communication, organizational, creative, and resilient skills support my focus on delivering quality results.
+ 
+ I am a **Salesforce Admin** with over 5 years of experience in IT, specializing in Salesforce and business analysis. I bridge the gap between technical teams and business stakeholders, driving innovation and aligning business objectives with technical solutions.
+ 
+ ## Skills
+ - **Salesforce**: Automation, Flows, Reports, Dashboards, Administration,
+ - **Agile Methodologies**: Backlog management, writing user stories, defining "done".
+ - **Documentation**: Creating process documentation and business requirements.
+ For the past 3 years, I've been working with Salesforce, focusing on **System Administration**, and **Business Process Optimization**, contributing to key projects described below.
+ 
+ ## Key Projects & Experience
+ 
+ An example of a flow I created to automate the donation approval process.
+ - **ERP Implementation**: Led the implementation of an ERP system to improve internal processes.
+ - **Product Owner - Netsuite & Salesforce Integration**: Managed a project integrating **Netsuite** and **Salesforce** via **MuleSoft**.
+ - **Dashboards for Employee Performance**: Developed custom dashboards to track and monitor employee performance at a Brazilian bank.
+ - **Account Assignment at Sicredi**: Reorganized **Salesforce objects** and optimized triggers for the account assignment process.
+ - **Opt-In/Opt-Out Flow for Charity (Australia)**: Automating the opt-in/opt-out process for a charity, improving communication.
+ - **Data Cloud Implementation**: Currently, I'm involved in a **Data Cloud** implementation project, enhancing data infrastructure.
+ 
+ [View Code](#) | [Documentation](#)
+ ## Salesforce Experiencie
 
-# 🚀 Agile Methodologies
-
-This section of my professional portfolio showcases my practical knowledge and hands-on experience with Agile methodologies, especially in the context of Business System Analysis and System Administration.
-
-I have applied these techniques in real-world projects to improve team alignment, ensure value delivery, and enable testable, trackable progress across systems and features.
-
----
-
-## 🔧 Techniques I Use
-
-### 1. 📌 User Stories – 3W Format (Who, What, Why)
-
-A simple and effective format I use to ensure clarity and value in each feature request:
-
-**Template:**
-> **AS A** (persona)  
-> **I WANT** (desired functionality)  
-> **SO THAT** (motivation / business value)
-
-**Example:**
-> AS a system administrator  
-> I WANT to automate user provisioning  
-> SO THAT I can reduce manual workload and avoid human errors
-
----
-
-### 2. 📋 3C – Card, Conversation, Confirmation
-
-I use this model to ensure user stories are lean but powerful:
-
-- **Card** – Stories are short and easy to understand  
-- **Conversation** – They encourage ongoing discussion with stakeholders and team  
-- **Confirmation** – They include acceptance criteria that define when a story is considered “done”
-
----
-
-### 3. ✅ INVEST Principles
-
-To guarantee story quality and maintain development flow, I follow the INVEST model:
-
-- **Independent** – Stories are not blocked by others  
-- **Negotiable** – Open to discussion and refinement  
-- **Valuable** – Each story delivers end-user value  
-- **Estimable** – Stories are clear enough to be estimated by the team  
-- **Sized Appropriately** – Small enough for one iteration  
-- **Testable** – Clear enough to define test cases
-
----
-
-## 📌 Acceptance Criteria & BDD
-
-I always write or collaborate on acceptance criteria to make requirements testable and measurable.
-
-**Example (bullet points):**
-
-- Feature is accessible via dashboard  
-- Only users with admin roles can access the feature  
-- Success message displayed after saving settings  
-
-**Example (BDD - Behavior Driven Development):**
-```gherkin
-Scenario: Admin updates system configuration
-Given the admin is logged in
-When they access the configuration page
-And submit valid changes
-Then the system should save and apply the new settings
-```
-
----
-
-## ✍️ Writing Better Stories – My Approach
-
-- Define clear **personas** for each user scenario  
-- Prioritize **value over format** – adjust the story structure if needed  
-- Keep stories **concise and focused**  
-- Maintain **close collaboration with stakeholders**  
-- Use **INVEST** to ensure story quality  
-- Document **business rules and acceptance criteria** for each feature
-
----
-
-📌 *These methods help me bridge the gap between business needs and technical delivery—making sure everyone is aligned, and the solution meets user expectations.*
+ Description of how I managed the backlog of a project and wrote user stories.
+ - **Sales Cloud**, **Financial Services Cloud**, **Nonprofit Success Pack (NPSP)**, and **Account Engagement (Pardot)**.
+ - Proficient in **Salesforce Automation** (Flows), **Reports & Dashboards**, and **System Administration**.
+ 
+ [View Code](#) | [Documentation](#)
+ ## Skills
+ 
+ - **Business and System Analysis**: Gathering requirements, mapping and optimizing business processes.
+ - **Agile Methodologies**: Backlog Management, writing user stories, sprint planning, refinement and prioritization of tasks.
+ - **Documentation**: Creation of process documentation and business requirement documents.
+ - **System Administration**: System administration and configuration, maintaining system performance, automations, custom reports and dashboards, and data management.
+ 
+ [View Code](#) | [Documentation](#)
+ ## Education & Certifications
+ 
+ ## Educational 
+ - **Salesforce Ranger**
+ - **Certified Scrum Product Owner - Scrum Alliance**
+ - **Certified PBB Practitioner- Caroli.org**
+ - **Certified PBB Practitioner - Caroli.org**
+ - **Certified Lean Inception Facilitator - Caroli.org**
+ - **Graduated in Analysis and Systems Development - SENAI CTAI**
+ - **Industrial Automation Technician - SENAI CTAI**
+ 
+ ## Contact Me
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/felipe-annunziato-968893171/).
