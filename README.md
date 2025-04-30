@@ -1,40 +1,83 @@
-# Welcome to My Professional Portfolio
 
-## About Me
+# 🚀 Agile Methodologies
 
-I am a **Business System Analyst and System Administrator** with over 5 years of experience in IT, specializing in Salesforce. I bridge the gap between technical teams and business stakeholders, driving innovation and aligning business objectives with technical solutions.
+This section of my professional portfolio showcases my practical knowledge and hands-on experience with Agile methodologies, especially in the context of Business System Analysis and System Administration.
 
-For the past 3 years, I've been working with Salesforce, focusing on **System Administration**, and **Business Process Optimization**, contributing to key projects described below.
+I have applied these techniques in real-world projects to improve team alignment, ensure value delivery, and enable testable, trackable progress across systems and features.
 
-## Key Projects & Experience
+---
 
-- **ERP Implementation**: Led the implementation of an ERP system to improve internal processes.
-- **Product Owner - Netsuite & Salesforce Integration**: Managed a project integrating **Netsuite** and **Salesforce** via **MuleSoft**.
-- **Dashboards for Employee Performance**: Developed custom dashboards to track and monitor employee performance at a Brazilian bank.
-- **Restructuring of Account Assignment Objects for a Bank (Brazil)**: Reorganized Salesforce objects and optimized triggers for the account assignment process.
-- **Opt-In/Opt-Out Flow for Charity (Australia)**: Automating the opt-in/opt-out process for a charity, improving communication.
-- **Data Cloud Implementation**: Currently, I'm involved in a **Data Cloud** implementation project, enhancing data infrastructure.
+## 🔧 Techniques I Use
 
-## Salesforce Experiencie
+### 1. 📌 User Stories – 3W Format (Who, What, Why)
 
-- **Sales Cloud**, **Financial Services Cloud**, **Nonprofit Success Pack (NPSP)**, and **Account Engagement (Pardot)**.
-- Proficient in **Salesforce Automation** (Flows), **Reports & Dashboards**, and **System Administration**.
+A simple and effective format I use to ensure clarity and value in each feature request:
 
-## Skills
+**Template:**
+> **AS A** (persona)  
+> **I WANT** (desired functionality)  
+> **SO THAT** (motivation / business value)
 
-- **Business and System Analysis**: Gathering requirements, mapping and optimizing business processes.
-- **Agile Methodologies**: Backlog Management, writing user stories, sprint planning, refinement and prioritization of tasks.
-- **Documentation**: Creation of process documentation and business requirement documents.
-- **System Administration**: System administration and configuration, maintaining system performance, automations, custom reports and dashboards, and data management.
+**Example:**
+> AS a system administrator  
+> I WANT to automate user provisioning  
+> SO THAT I can reduce manual workload and avoid human errors
 
-## Education & Certifications
+---
 
-- **Salesforce Ranger**
-- **Certified Scrum Product Owner - Scrum Alliance**
-- **Certified PBB Practitioner - Caroli.org**
-- **Certified Lean Inception Facilitator - Caroli.org**
-- **Graduated in Analysis and Systems Development - SENAI CTAI**
+### 2. 📋 3C – Card, Conversation, Confirmation
 
-## Contact Me
+I use this model to ensure user stories are lean but powerful:
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/felipe-annunziato-968893171/).
+- **Card** – Stories are short and easy to understand  
+- **Conversation** – They encourage ongoing discussion with stakeholders and team  
+- **Confirmation** – They include acceptance criteria that define when a story is considered “done”
+
+---
+
+### 3. ✅ INVEST Principles
+
+To guarantee story quality and maintain development flow, I follow the INVEST model:
+
+- **Independent** – Stories are not blocked by others  
+- **Negotiable** – Open to discussion and refinement  
+- **Valuable** – Each story delivers end-user value  
+- **Estimable** – Stories are clear enough to be estimated by the team  
+- **Sized Appropriately** – Small enough for one iteration  
+- **Testable** – Clear enough to define test cases
+
+---
+
+## 📌 Acceptance Criteria & BDD
+
+I always write or collaborate on acceptance criteria to make requirements testable and measurable.
+
+**Example (bullet points):**
+
+- Feature is accessible via dashboard  
+- Only users with admin roles can access the feature  
+- Success message displayed after saving settings  
+
+**Example (BDD - Behavior Driven Development):**
+```gherkin
+Scenario: Admin updates system configuration
+Given the admin is logged in
+When they access the configuration page
+And submit valid changes
+Then the system should save and apply the new settings
+```
+
+---
+
+## ✍️ Writing Better Stories – My Approach
+
+- Define clear **personas** for each user scenario  
+- Prioritize **value over format** – adjust the story structure if needed  
+- Keep stories **concise and focused**  
+- Maintain **close collaboration with stakeholders**  
+- Use **INVEST** to ensure story quality  
+- Document **business rules and acceptance criteria** for each feature
+
+---
+
+📌 *These methods help me bridge the gap between business needs and technical delivery—making sure everyone is aligned, and the solution meets user expectations.*
