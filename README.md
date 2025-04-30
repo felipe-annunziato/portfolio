@@ -2,11 +2,6 @@
  
  ## About Me 
  I am a **Business System Analyst and System Adminstrator** with over 5 years of experience in IT, specializing in Salesforce. I bridge the gap between technical teams and business stakeholders, driving innovation and aligning business objectives with technical solutions. For the past 3 years, I've been working with Salesforce, focusing on **System Administration**, and **Business Process Optimization**, contributing to key projects described below.
- 
- ## Skills
- - **Salesforce**: Automation, Flows, Reports, Dashboards, Administration,
- - **Agile Methodologies**: Backlog management, writing user stories, defining "done".
- - **Documentation**: Creating process documentation and business requirements.
 
  ## Key Projects & Experience
  
