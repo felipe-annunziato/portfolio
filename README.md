@@ -1,14 +1,13 @@
 # Welcome to My Professional Portfolio
  
  ## About Me 
- I am a **Business System Analyst and System Adminstrator** with over 5 years of experience in IT, specializing in Salesforce. I bridge the gap between technical teams and business stakeholders, driving innovation and aligning business objectives with technical solutions.
+ I am a **Business System Analyst and System Adminstrator** with over 5 years of experience in IT, specializing in Salesforce. I bridge the gap between technical teams and business stakeholders, driving innovation and aligning business objectives with technical solutions. For the past 3 years, I've been working with Salesforce, focusing on **System Administration**, and **Business Process Optimization**, contributing to key projects described below.
  
  ## Skills
  - **Salesforce**: Automation, Flows, Reports, Dashboards, Administration,
  - **Agile Methodologies**: Backlog management, writing user stories, defining "done".
  - **Documentation**: Creating process documentation and business requirements.
- For the past 3 years, I've been working with Salesforce, focusing on **System Administration**, and **Business Process Optimization**, contributing to key projects described below.
- 
+
  ## Key Projects & Experience
  
  - **ERP Implementation**: Led the implementation of an ERP system to improve internal processes.
@@ -31,8 +30,7 @@
  - **System Administration**: System administration and configuration, maintaining system performance, automations, custom reports and dashboards, and data management.
  
  ## Education & Certifications
- 
- ## Educational 
+
  - **Salesforce Ranger**
  - **Certified Scrum Product Owner - Scrum Alliance**
  - **Certified PBB Practitioner- Caroli.org**
