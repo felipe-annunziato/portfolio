@@ -7,9 +7,9 @@
  
  - **ERP Implementation**: Led the implementation of an ERP system to improve internal processes.
  - **Product Owner - Netsuite & Salesforce Integration**: Managed a project integrating **Netsuite** and **Salesforce** via **MuleSoft**.
- - **Dashboards for Employee Performance**: Developed custom dashboards to track and monitor employee performance at a Brazilian bank.
- - **Account Assignment at Sicredi**: Reorganized **Salesforce objects** and optimized triggers for the account assignment process.
- - **Opt-In/Opt-Out Flow for Charity (Australia)**: Automating the opt-in/opt-out process for a charity, improving communication.
+ - **Dashboards for Employee Performance**: Developed custom dashboards to track and monitor employee performance at a brazilian bank.
+ - **Account Assignment**: Used Branch Unit default object structure in **Financial Service Cloud (Salesforce)** and optimized triggers for the account assignment process.
+ - **Opt-In/Opt-Out Flow for a charity institution**: Automating the opt-in/opt-out process for a charity, improving communication.
  - **Data Cloud Implementation**: Currently, I'm involved in a **Data Cloud** implementation project, enhancing data infrastructure.
  
  ## Salesforce Experiencie
